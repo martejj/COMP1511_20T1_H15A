@@ -7,7 +7,7 @@
 * Weekly tests - 2 hours to finish last weeks
 * Assignment 1 is out - we will cover it if we get time otherwise next week
 * Help sessions
-* Challenge exercise
+* New lab partners next week
 * Today we will skip code review due to time constraints
 * Today we will cover a lot - functions, arrays, scanning in while loops
 
