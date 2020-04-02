@@ -3,22 +3,27 @@
 int isUpper(char ch);
 
 int main(void) {
+   
     
-    // 
-    printf("%d", isUpper('A');
+    // 1
+    printf("%d\n", isUpper('A'));
 
-    // 
-    printf("%d", isUpper('a'))
+    // 0
+    printf("%d\n", isUpper('a'));
 
-    // 
-    printf("%d", isUpper('K'))
+    // 1
+    printf("%d\n", isUpper('K'));
 
-    // 
-    printf("%d", isUpper('!'))
+    // 0
+    printf("%d\n", isUpper('!'));
 }
 
 int isUpper(char ch) {
-
-
+    
+    if (ch >= 'A' && ch <= 'Z') {
+        return 1;
+    }
+    
+    return 0;
 
 }
